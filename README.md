@@ -37,6 +37,10 @@ Este repositório contém projetos desenvolvidos em Java para a disciplina de Es
    - Estruturas de Dados Probabilísticas
    - Estruturas de Dados Espaciais
 
+<div align="center">
+  <img src="https://github.com/powerandcontrol/Estrutura-de-Dados-w-Java/blob/main/ghibli_ed_java_gif.gif"  width=130>
+</div>
+
 ## Projetos
 
 1. **Atendimento Preferencial**: Implementação de uma lista encadeada em Java para representar uma fila de atendimento num consultório médico.
